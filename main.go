@@ -21,5 +21,5 @@ func main() {
 		}
 		fmt.Println("You typed", string(ln))
 	}
-	fmt.Println("Exiting")
+	fmt.Println("Exiting...")
 }
